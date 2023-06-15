@@ -40,13 +40,6 @@
   
   
 
-<br/>
-
-<a href="https://github.com/JntCruz99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JntCruz99&theme=dark&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
