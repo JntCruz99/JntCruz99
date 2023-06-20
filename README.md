@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JntCruz99&color=006bed)
+
 
 <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 
