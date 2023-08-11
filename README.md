@@ -19,9 +19,6 @@
   ![C](https://img.shields.io/badge/--333333?logo=c)
   ![PHP](https://img.shields.io/badge/-PHP-333333?logo=PHP)
 
-**Utilidades**
-
-  ![Qtdesigner](https://img.shields.io/badge/-Qtdesigner-333333?logo=qt)
 
 **DevOps**
 
@@ -33,9 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?logo=apachenetbeanside)
-  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?logo=adobephotoshop)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?logo=pycharm)
-  ![Canva](https://img.shields.io/badge/-canva-333333?logo=canva)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?logo=wordpress)
   
   
